@@ -1,0 +1,7 @@
+name = input("  enter your name:   ")
+print("upper",name.upper())
+print("lower",name.lower())
+print(len(name))
+print(name.strip())
+print(f"hello {name}")
+print(name.find("d"))
